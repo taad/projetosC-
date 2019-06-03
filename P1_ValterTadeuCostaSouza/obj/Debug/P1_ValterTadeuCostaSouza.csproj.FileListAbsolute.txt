@@ -1,0 +1,10 @@
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\obj\Debug\P1_ValterTadeuCostaSouza.Form1.resources
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\obj\Debug\P1_ValterTadeuCostaSouza.Properties.Resources.resources
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\obj\Debug\P1_ValterTadeuCostaSouza.csproj.GenerateResource.Cache
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\obj\Debug\P1_ValterTadeuCostaSouza.csproj.CoreCompileInputs.cache
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\bin\Debug\P1_ValterTadeuCostaSouza.exe.config
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\bin\Debug\P1_ValterTadeuCostaSouza.exe
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\bin\Debug\P1_ValterTadeuCostaSouza.pdb
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\obj\Debug\P1_ValterTadeuCostaSouza.exe
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\obj\Debug\P1_ValterTadeuCostaSouza.pdb
+C:\Users\tadeu\Documents\Visual Studio 2017\Projects\P1_ValterTadeuCostaSouza\P1_ValterTadeuCostaSouza\obj\Debug\P1_ValterTadeuCostaSouza.csprojAssemblyReference.cache
